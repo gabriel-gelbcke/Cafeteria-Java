@@ -1,0 +1,165 @@
+21-06-2024 23:05:17 Produtos foram listados!
+21-06-2024 23:05:10 Produtos foram listados!
+21-06-2024 23:05:07 Produto r cadastrado com sucesso!
+21-06-2024 23:04:45 Erro ao listar vendas, não há vendas registradas!
+21-06-2024 23:04:43 Usuarios foram listados!
+21-06-2024 23:04:41 Funcionarios foram listadas!
+21-06-2024 23:04:38 Insumos foram listados!
+21-06-2024 23:04:34 Produtos foram listados!
+21-06-2024 23:01:17 Produtos foram listados!
+21-06-2024 22:58:02 Erro ao listar vendas, não há vendas registradas!
+21-06-2024 22:58:00 Venda 1 removida com sucesso!
+21-06-2024 22:57:52 Vendas foram listadas!
+21-06-2024 22:57:43 Vendas foram listadas!
+21-06-2024 22:57:39 Venda 1 cadastrada com sucesso!
+21-06-2024 22:57:34 Funcionario 1 cadastrado com sucesso!
+21-06-2024 22:57:30 Usuario 1 cadastrado com sucesso!
+21-06-2024 22:57:28 Insumo 1 cadastrado com sucesso!
+21-06-2024 22:57:25 Produto 1 cadastrado com sucesso!
+21-06-2024 22:57:13 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 22:57:06 Erro ao listar vendas, não há vendas registradas!
+21-06-2024 22:54:04 Vendas foram listadas!
+21-06-2024 22:54:01 Venda 1 removida com sucesso!
+21-06-2024 22:53:41 Vendas foram listadas!
+21-06-2024 22:51:49 Vendas foram listadas!
+21-06-2024 22:51:37 Vendas foram listadas!
+21-06-2024 22:51:33 Venda 1 cadastrada com sucesso!
+21-06-2024 22:51:25 Funcionario 1 cadastrado com sucesso!
+21-06-2024 22:51:22 Usuario 1 cadastrado com sucesso!
+21-06-2024 22:51:19 Insumo 1 cadastrado com sucesso!
+21-06-2024 22:51:17 Produto 1 cadastrado com sucesso!
+21-06-2024 22:43:09 Produtos foram listados!
+21-06-2024 22:42:56 Venda 1 cadastrada com sucesso!
+21-06-2024 22:42:34 Funcionario 1 cadastrado com sucesso!
+21-06-2024 22:42:31 Usuario 1 cadastrado com sucesso!
+21-06-2024 22:42:28 Insumo 1 cadastrado com sucesso!
+21-06-2024 22:42:25 Produto 1 cadastrado com sucesso!
+21-06-2024 22:41:37 Erro ao listar funcionarios, não há funcionarios registrados!
+21-06-2024 22:41:34 Funcionario, com id 2 removido com sucesso!
+21-06-2024 22:41:28 Usuarios foram listados!
+21-06-2024 22:41:26 Usuario, com id 1 removido com sucesso!
+21-06-2024 22:41:13 Produtos foram listados!
+21-06-2024 22:41:06 Funcionarios foram listadas!
+21-06-2024 22:35:55 Funcionario 1 cadastrado com sucesso!
+21-06-2024 22:35:51 Usuario 1 cadastrado com sucesso!
+21-06-2024 22:35:47 Insumo 1 cadastrado com sucesso!
+21-06-2024 22:35:44 Produto 1 cadastrado com sucesso!
+21-06-2024 22:29:57 Funcionario taigha cadastrado com sucesso!
+21-06-2024 22:29:41 Funcionarios foram listadas!
+21-06-2024 22:29:38 Usuario tiago cadastrado com sucesso!
+21-06-2024 22:29:31 Erro ao listar usuarios, não há usuarios registrados!
+21-06-2024 22:29:26 Insumo ra cadastrado com sucesso!
+21-06-2024 22:29:21 Erro ao listar insumos, não há insumos registrados!
+21-06-2024 22:29:16 Produtos foram listados!
+21-06-2024 22:26:29 Venda 1 cadastrada com sucesso!
+21-06-2024 22:16:04 Erro ao listar funcionarios, não há funcionarios registrados!
+21-06-2024 22:16:00 Funcionario, com id 1 removido com sucesso!
+21-06-2024 22:15:52 Funcionarios foram listadas!
+21-06-2024 22:15:15 Funcionarios foram listadas!
+21-06-2024 22:15:09 Produtos foram listados!
+21-06-2024 22:15:07 Produto 234 cadastrado com sucesso!
+21-06-2024 22:15:02 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 22:14:52 Funcionarios foram listadas!
+21-06-2024 22:14:47 Funcionario Jao cadastrado com sucesso!
+21-06-2024 22:14:02 Erro ao listar funcionarios, não há funcionarios registrados!
+21-06-2024 22:09:28 Erro ao listar insumos, não há insumos registrados!
+21-06-2024 22:09:25 Insumo, com id 1 removido com sucesso!
+21-06-2024 22:09:21 Insumos foram listados!
+21-06-2024 22:08:46 Insumos foram listados!
+21-06-2024 22:08:38 Insumos foram listados!
+21-06-2024 22:08:02 Insumos foram listados!
+21-06-2024 22:08:00 Insumo, com id 1 removido com sucesso!
+21-06-2024 22:07:55 Insumos foram listados!
+21-06-2024 22:07:50 Erro ao listar usuarios, não há usuarios registrados!
+21-06-2024 22:07:48 Usuario, com id 1 removido com sucesso!
+21-06-2024 22:07:43 Usuarios foram listados!
+21-06-2024 22:05:08 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 22:05:05 Produto, com id 2 removido com sucesso!
+21-06-2024 22:04:59 Produtos foram listados!
+21-06-2024 22:04:56 Produto 321 cadastrado com sucesso!
+21-06-2024 22:04:51 Insumos foram listados!
+21-06-2024 22:04:48 Insumo, com id 1 removido com sucesso!
+21-06-2024 22:04:41 Insumo 123 cadastrado com sucesso!
+21-06-2024 22:04:37 Erro ao listar insumos, não há insumos registrados!
+21-06-2024 22:04:27 Usuarios foram listados!
+21-06-2024 22:04:24 Usuario, com id 1 removido com sucesso!
+21-06-2024 22:04:19 Usuarios foram listados!
+21-06-2024 22:02:52 Erro ao remover, usuario com id 1 não cadastrado!
+21-06-2024 22:02:42 Usuarios foram listados!
+21-06-2024 22:02:02 Usuarios foram listados!
+21-06-2024 22:01:59 Usuario, com id 1 removido com sucesso!
+21-06-2024 22:01:55 Usuarios foram listados!
+21-06-2024 22:01:36 Produtos foram listados!
+21-06-2024 22:01:34 Produto 123 cadastrado com sucesso!
+21-06-2024 22:01:30 Erro ao listar insumos, não há insumos registrados!
+21-06-2024 22:01:27 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 22:01:15 Usuarios foram listados!
+21-06-2024 22:01:03 Usuarios foram listados!
+21-06-2024 22:00:58 Usuario tabs cadastrado com sucesso!
+21-06-2024 22:00:48 Erro ao listar usuarios, não há usuarios registrados!
+21-06-2024 21:56:22 Usuarios foram listados!
+21-06-2024 21:56:04 Usuario taps cadastrado com sucesso!
+21-06-2024 21:55:41 Usuario cleyton cadastrado com sucesso!
+21-06-2024 21:50:54 Insumo, com id 1 removido com sucesso!
+21-06-2024 21:50:49 Insumo 88 cadastrado com sucesso!
+21-06-2024 21:50:44 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:39:02 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:39:00 Produto, com id 1 removido com sucesso!
+21-06-2024 21:38:55 Erro ao remover, produto com id 57 não cadastrado!
+21-06-2024 21:38:46 Insumo 57 cadastrado com sucesso!
+21-06-2024 21:38:40 Produto 57 cadastrado com sucesso!
+21-06-2024 21:38:10 Insumo 66 cadastrado com sucesso!
+21-06-2024 21:38:04 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:38:01 Produto, com id 2 removido com sucesso!
+21-06-2024 21:37:51 Produtos foram listados!
+21-06-2024 21:37:44 Produto 44 cadastrado com sucesso!
+21-06-2024 21:37:23 Insumo 67 cadastrado com sucesso!
+21-06-2024 21:22:47 Produto, com id 10 removido com sucesso!
+21-06-2024 21:22:41 Produtos foram listados!
+21-06-2024 21:22:39 Produto t cadastrado com sucesso!
+21-06-2024 21:22:20 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:18:37 Produto, com id 9 removido com sucesso!
+21-06-2024 21:18:34 Produto 5 cadastrado com sucesso!
+21-06-2024 21:18:26 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:17:39 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:14:06 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:14:03Produto, com id 8 removido com sucesso!
+21-06-2024 21:13:59 Erro ao remover, produto com id 9 não cadastrado!
+21-06-2024 21:13:53 Produto 4 cadastrado com sucesso!
+21-06-2024 21:13:44 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:12:26 Erro ao remover, produto com id 3123213 não cadastrado!
+21-06-2024 21:12:02 Erro ao remover, produto com id 666 não cadastrado!
+21-06-2024 21:10:42 Erro ao remover, produto não cadastrado!
+21-06-2024 21:10:03 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:09:25 Produto removido com sucesso!333333333333
+21-06-2024 21:09:25 Produto removido com sucesso!333333333333
+21-06-2024 21:09:22 Produto 8 cadastrado com sucesso!
+21-06-2024 21:09:19 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 21:08:22 Produto 6 cadastrado com sucesso!
+21-06-2024 21:07:35 Produto 4 cadastrado com sucesso!
+21-06-2024 21:06:48 Produtos foram listados!
+21-06-2024 21:03:19 Produtos foram listados!
+21-06-2024 21:03:16 Produto 5 cadastrado com sucesso!
+21-06-2024 21:01:15 Produtos foram listados!
+21-06-2024 21:00:45 Produtos foram listados!
+21-06-2024 21:00:25 Produtos foram listados!
+21-06-2024 21:00:22 Produto 123 cadastrado com sucesso!
+21-06-2024 21:00:15 Erro ao listar produtos, não há produtos registrados!
+21-06-2024 20:57:39 Produto 4 cadastrado com sucesso!
+21-06-2024 20:54:03 Produto 5 cadastrado com sucesso!
+21-06-2024 20:53:42 Produto 4 cadastrado com sucesso!
+21-06-2024 20:52:09 Produto 1 removido com sucesso!
+21-06-2024 20:51:44 Produto 2 cadastrado com sucesso!
+21-06-2024 20:51:41 Produto 1 cadastrado com sucesso!
+21-06-2024 20:51:09 Produto 1 cadastrado com sucesso!
+21-06-2024 20:50:30 Produto 1 cadastrado com sucesso!
+21-06-2024 20:50:15 Produto 1 cadastrado com sucesso!
+21-06-2024 20:49:48 Produto 1 cadastrado com sucesso!
+21-06-2024 20:49:21 Produto 3 cadastrado com sucesso!
+21-06-2024 20:48:33 Produto 333 cadastrado com sucesso!
+21-06-2024 20:47:23 Produto 123 cadastrado com sucesso!
+21-06-2024 20:45:13 Erro ao remover 123, produto não cadastrado!
+21-06-2024 20:44:56 Erro ao remover 123, produto não cadastrado!
+21-06-2024 20:43:53 Produto 555 cadastrado com sucesso!
+21-06-2024 20:42:28 Produto 123 cadastrado com sucesso!
+21-06-2024 20:37:21 Produto 1 cadastrado com sucesso!
