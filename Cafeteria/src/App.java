@@ -4,6 +4,12 @@ import view.*;
 import util.Serializador;
 import controller.Cafeteria;
 
+//Equipe Cafeteria
+//ANTÔNIO ADAIR CABREIRA NETO - 8833702233
+//DAVI ALVES DE LINS - 8834109170
+//GABRIEL GELBCKE DA SILVA - 8833957134
+//GUSTAVO TORRES GIROTO - 8834184341
+
 public class App {
     public static void main(String[] args) throws Exception {
 
